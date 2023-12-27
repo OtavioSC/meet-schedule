@@ -1,0 +1,7 @@
+// Files and folders suggested by turborepo
+.turbo
+build/**
+dist/**
+.next/**
+
+node_modules/
