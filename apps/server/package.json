@@ -14,5 +14,8 @@
     "koa": "^2.14.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.13.12"
   }
 }
